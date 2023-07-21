@@ -1,0 +1,2 @@
+Run TrainNet or TrainNetXcep to train Alexnet or Xception on far-field images
+Or generate datasets for use by QualNet and SimNet written in python
